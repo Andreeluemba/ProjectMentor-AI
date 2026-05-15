@@ -20,12 +20,11 @@ O **ProjectMentor AI** é uma aplicação web que actua como um mentor inteligen
 
 ---
 
-
 ## 🚀 Como correr o projeto localmente
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/teu-usuario/projectmentor-ai.git
+git clone https://github.com/Andreeluemba/projectmentor-ai.git
 
 # 2. Entrar na pasta
 cd projectmentor-ai
@@ -45,9 +44,9 @@ npm run dev
 ## 📁 Estrutura do Projeto
 
 ```
-projectmentor-ai/
-├── frontend/          # Aplicação React
-├── backend/           # API Node.js / FastAPI
+ProjectMentor-AI/
+├── frontend/          # Aplicação React (Vite)
+├── backend/           # API Node.js + Fastify
 ├── database/          # Scripts e migrações
 ├── devops/            # Docker, CI/CD configs
 ├── docs/              # Documentação extra
@@ -60,7 +59,7 @@ projectmentor-ai/
 
 Feito com 💙 como projeto pessoal de aprendizagem.
 
-- GitHub: [@André Luemba]([https://github.com/teu-usuario)](https://github.com/Andreeluemba)
+- GitHub: [@Andreeluemba](https://github.com/Andreeluemba)
 
 ---
 
